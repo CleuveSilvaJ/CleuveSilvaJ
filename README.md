@@ -19,7 +19,6 @@ Tenho **10 anos de experiência** em **segurança privada** em uma empresa multi
 - 🔑 **Controle de acesso rigoroso**
 - 🔫 **Armamento** (com reciclagem semestral)
 - 🚓 Operações de segurança: patrulhamento, monitoramento e resposta a incidentes
-- 🚗 **Condução de veículos** (CNH B)
 
 ---
 
@@ -38,4 +37,4 @@ Tenho **10 anos de experiência** em **segurança privada** em uma empresa multi
 - 🖥 Suporte e infraestrutura  
 
 
-https://www.linkedin.com/in/cleuvesilva/
+Meu linkedin: https://www.linkedin.com/in/cleuvesilva/

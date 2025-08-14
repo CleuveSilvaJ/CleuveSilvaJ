@@ -10,6 +10,7 @@ Atualmente, estou me especializando em **Análise e Desenvolvimento de Sistemas*
 - 🧠 **Lógica de programação**
 - 🔢 **Algoritmos**
 - 💻 **Fundamentos do desenvolvimento de software**
+- **E muito mais...**
 
 ---
 

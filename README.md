@@ -42,14 +42,6 @@ Possuo **10 anos de experiência** na área de **segurança privada**, atuando e
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleuvesilva&show_icons=true&theme=radical"/>
-</div>
-
----
-
 ## 👁️ Contador de Visitas
 
 ![Visitantes](https://komarev.com/ghpvc/?username=cleuvesilva&color=blue)

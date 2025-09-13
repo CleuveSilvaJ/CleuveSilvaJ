@@ -1,41 +1,66 @@
-<!-- Banner de apresentação -->
-<h1 align="center">👋 Olá Mundo, eu sou Cleuve Silva</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Transição de Carreira</h3>
+<h1 align="center">💻 Cleuve Silva — Da vigilância ao desenvolvimento</h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Em transição de carreira</h3>
 
 ---
 
-## 🎓 Formação e Estudos
-Atualmente, estou me especializando em **Análise e Desenvolvimento de Sistemas** na **Cruzeiro do Sul**.  
-Áreas de estudo:
-- 🧠 **Lógica de programação**
-- 🔢 **Algoritmos**
-- 💻 **Fundamentos do desenvolvimento de software**
-- ➕️ **E muito mais...**
+## 🎓 Formação Acadêmica
+
+Atualmente cursando **Análise e Desenvolvimento de Sistemas** pela **Cruzeiro do Sul**.  
+Meus principais focos de estudo incluem:
+- 🧠 Lógica de programação  
+- 🔢 Algoritmos  
+- 💻 Fundamentos do desenvolvimento de software  
+- 📚 Estruturas de dados, banco de dados e muito mais
 
 ---
 
 ## 💼 Experiência Profissional
-Tenho **10 anos de experiência** em **segurança privada** em uma empresa multinacional, atuando em:
-- 🛡 **Segurança ostensiva**
-- 🔑 **Controle de acesso rigoroso**
-- 🔫 **Armamento** (com reciclagem semestral)
-- 🚓 Operações de segurança: patrulhamento, monitoramento e resposta a incidentes
+
+Possuo **10 anos de experiência** na área de **segurança privada**, atuando em uma empresa multinacional com foco em:
+- 🛡 Segurança patrimonial e ostensiva  
+- 🔑 Controle de acesso e vigilância estratégica  
+- 🔫 Manuseio e treinamento com armamento (reciclagem semestral)  
+- 🚓 Operações táticas: patrulhamento, monitoramento e resposta a incidentes
 
 ---
 
 ## 🛠 Habilidades Transferenciais
-- 👀 Observação e atenção aos detalhes  
-- ⚡ Tomada de decisões rápidas e eficazes  
-- 🤝 Trabalho em equipe  
-- 🔄 Alta capacidade de adaptação  
+
+- 👀 Atenção aos detalhes e pensamento analítico  
+- ⚡ Tomada de decisões sob pressão  
+- 🤝 Colaboração e trabalho em equipe  
+- 🔄 Adaptabilidade a novos ambientes e desafios
 
 ---
 
 ## 📌 Áreas de Interesse
-- 💻 Desenvolvimento de sistemas  
-- 🔐 Segurança da informação  
-- 📊 Análise de dados  
-- 🖥 Suporte e infraestrutura  
 
+- 💻 Desenvolvimento de sistemas e aplicações  
+- 🔐 Segurança da informação e cibersegurança  
+- 📊 Análise de dados e inteligência operacional  
+- 🖥 Suporte técnico e infraestrutura de TI
 
-Meu linkedin: https://www.linkedin.com/in/cleuvesilva/
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleuvesilva&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleuvesilva&layout=compact&theme=radical"/>
+</div>
+
+---
+
+![snake gif](https://github.com/cleuvesilva/cleuvesilva/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👁️ Contador de Visitas
+
+![Visitantes](https://komarev.com/ghpvc/?username=cleuvesilva&color=blue)
+
+---
+
+## 📎 Contato
+
+📇 [LinkedIn](https://www.linkedin.com/in/cleuvesilva/)

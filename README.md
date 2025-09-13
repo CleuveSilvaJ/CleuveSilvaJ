@@ -46,12 +46,7 @@ Possuo **10 anos de experiência** na área de **segurança privada**, atuando e
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleuvesilva&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleuvesilva&layout=compact&theme=radical"/>
 </div>
-
----
-
-![snake gif](https://github.com/cleuvesilva/cleuvesilva/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

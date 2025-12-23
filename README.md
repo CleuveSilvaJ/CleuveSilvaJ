@@ -16,7 +16,7 @@ Meus principais focos de estudo incluem:
 
 ## 💼 Experiência Profissional
 
-Possuo **10 anos de experiência** na área de **segurança privada**, atuando em uma empresa multinacional com foco em:
+Possuo **10 anos de experiência** na área de **segurança privada**, com foco em:
 - 🛡 Segurança patrimonial e ostensiva  
 - 🔑 Controle de acesso e vigilância estratégica  
 - 🔫 Manuseio e treinamento com armamento (reciclagem semestral)  
@@ -35,9 +35,7 @@ Possuo **10 anos de experiência** na área de **segurança privada**, atuando e
 
 ## 📌 Áreas de Interesse
 
-- 💻 Desenvolvimento de sistemas e aplicações  
-- 🔐 Segurança da informação e cibersegurança  
-- 📊 Análise de dados e inteligência operacional  
+- 💻 Desenvolvimento de sistemas 
 - 🖥 Suporte técnico e infraestrutura de TI
 
 ---
